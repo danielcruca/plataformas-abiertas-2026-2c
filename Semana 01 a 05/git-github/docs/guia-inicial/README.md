@@ -250,3 +250,8 @@ Para trabajar colaborativamente con otros desarrolladores, puedes agregarlos com
 
 # Flujo
 ![alt text](imagenes/flujo.png)
+
+---
+# Analogía camión 
+
+![flujo](imagenes/flujo-camion.png)
