@@ -1,4 +1,4 @@
-# 🐱 GitHub Desktop: Guía Fácil para Principiantes
+# 🐱 Guía GitHub Desktop
 
 ## ✅ Requisitos
 
