@@ -44,6 +44,16 @@ db.libros.find({
   "autor.nombre": "Isabel",
   "autor.apellido": "Allende"
 })
+#Equivalente a:
+
+db.libros.find({
+  $and: [
+    { "autor.nombre": "Isabel" },
+    { "autor.apellido": "Allende" }
+  ]
+})
+
+
 ```
 
 ### 🧮 SQL
