@@ -8,9 +8,6 @@
 
 - [📄 Presentación Intro Python](../intro-python/README.md)
 
-### 🗂️ Uso del archivo `.env` para variables de entorno
-
-- [📄 Guía del archivo `.env`](../docs/variables-de-entorno.md)
 
 ---
 
