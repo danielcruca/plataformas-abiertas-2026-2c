@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_cors import CORS
-from .controllers.holamundo import estudiante_endpoint 
+from .controllers.estudiantes import estudiante_endpoint 
 
 def create_app():
     app = Flask(__name__)
